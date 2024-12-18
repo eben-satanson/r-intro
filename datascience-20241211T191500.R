@@ -1,14 +1,7 @@
-# SEE: https://cran.r-project.org/web/packages/titanic/index.html
-# SEE: https://github.com/paulhendricks/titanic
-# SEE: https://medium.com/swlh/basic-exploratory-data-analysis-of-titanic-data-using-r-53d4b764ec89
-# SEE: https://nt246.github.io/NTRES-6100-data-science/lab5-titanic.html
-# SEE: https://cran.r-project.org/web/packages/explore/vignettes/explore-titanic.html 
-# SEE: https://rpubs.com/ravijpp/titanic
-#
 # install.packages("readr")
 # install.packages("titanic")
 # install.packages("explore")
-#
+
 rm(list=ls())
 df0 <- titanic::titanic_train
 df2 <- titanic::titanic_test 
