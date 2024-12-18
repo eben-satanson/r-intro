@@ -11,3 +11,10 @@ git clone https://github.com/eben-satanson/r-intro
 
 
 #+end_src
+* Titanic Exploration Links
+- https://cran.r-project.org/web/packages/titanic/index.html
+- https://github.com/paulhendricks/titanic
+- https://medium.com/swlh/basic-exploratory-data-analysis-of-titanic-data-using-r-53d4b764ec89
+- https://nt246.github.io/NTRES-6100-data-science/lab5-titanic.html
+- https://cran.r-project.org/web/packages/explore/vignettes/explore-titanic.html
+- https://rpubs.com/ravijpp/titanic
